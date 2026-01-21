@@ -11,7 +11,7 @@ body {
   margin-right: 20%;
   border: 2px dotted black;
   padding: 10px;
-  font-family: sans-serif; /* Исправлено: sans-serif через дефис */
+  font-family: sans-serif;
 }
 
 blockquote.q {
@@ -19,7 +19,4 @@ blockquote.q {
   border-left: 4px solid #8B0000;
   font-style: italic;
 }
-
-p.quote {
-  font-family: "Pudelinka", cursive;
-}
+p.zz {font-family: "Pudelinka"; font size: 24px;}
